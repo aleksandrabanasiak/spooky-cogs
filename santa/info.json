@@ -1,0 +1,9 @@
+{
+    "author" : ["Spook (Spook#7643)"],
+    "install_msg" : "Usage: `[p]santa help",
+    "name" : "Secret Santa",
+    "short" : "Secret Santa cog",
+    "description" : "Let users register and participate in a server-wide Secret Santa!",
+    "tags" : ["utility"],
+    "hidden": false
+}
