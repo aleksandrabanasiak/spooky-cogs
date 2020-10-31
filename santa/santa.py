@@ -5,9 +5,9 @@ import json
 import os.path
 import random
 
+Cog = getattr(commands, "Cog", object)
 
-
-class Mycog:
+class Santa(Cog):
     """My custom cog that does stuff!"""
 
     def __init__(self, bot):

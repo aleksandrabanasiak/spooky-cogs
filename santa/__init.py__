@@ -1,0 +1,5 @@
+from .santa import Santa
+
+
+def setup(bot):
+    bot.add_cog(Santa())
